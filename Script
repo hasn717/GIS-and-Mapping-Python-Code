@@ -21,6 +21,7 @@ Most likely they will restrict how you can use the data.
 
 # Sources
 sources = []
+sources.append(["connections-xyz","Google Maps","","","","http://a.api.tomtom.com/map/1/tile/basic/main/%7bz%7d/%7bx%7d/%7by%7d.png?key=snaxphv5cyvugmxj45dzdgm7&","","19","0"])
 sources.append(["connections-xyz","Google Maps","","","","https://mt1.google.com/vt/lyrs=m&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D","","19","0"])
 sources.append(["connections-xyz","Google Satellite", "", "", "", "https://mt1.google.com/vt/lyrs=s&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D", "", "19", "0"])
 sources.append(["connections-xyz","Google Terrain", "", "", "", "https://mt1.google.com/vt/lyrs=t&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D", "", "19", "0"])
